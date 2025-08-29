@@ -5,7 +5,7 @@ const WhatsAppChat = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const openWhatsApp = (messageType = 'general') => {
-    const phone = "+1234567890";
+    const phone = "+59176196600";
     const messages = {
       menu: "Hola, me gustaría ver el menú completo de Mango Restaurant",
       hours: "Hola, ¿cuáles son sus horarios de atención?",
